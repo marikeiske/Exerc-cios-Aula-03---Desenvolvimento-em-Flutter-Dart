@@ -21,7 +21,7 @@ Este repositório contém um conjunto de aplicativos desenvolvidos em **Flutter*
 1. Instale o **Flutter** em sua máquina.
 2. Clone este repositório:
    ```sh
-   git clone https://github.com/marikeiske/Exerc-cios-Aula-03---Desenvolvimento-em-Flutter-Dartseu-usuario
+   git clone https://github.com/marikeiske/Exerc-cios-Aula-03---Desenvolvimento-em-Flutter-Dart
    ```
 3. Acesse a pasta do projeto:
    ```sh
